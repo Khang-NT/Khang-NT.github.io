@@ -44,6 +44,17 @@ The following table explains the information collected by YMusic on its servers:
 
 \*\* We also use third party analytics tools like Firebase and collect data about what users search, watch, download etc. This data is not used for any targetting or recommendations, neither is it shared with any other sdks. It is also not linked to any personal info like email address or IP address. The purpose of such analysis is knowing what is trending in various regions and for improving user experience.
 
+### Luminati - terms of service:
+
+In return for some of the premium features of YMusic, you may choose to be a peer on the Luminati network. By doing so you agree to have read and
+accepted the Terms of Service of the Luminati SDK SLA:  
+http://luminati.io/legal/sdk_sla.  
+You may opt-out of the Luminati network by following steps:
+1. Open YMusic's side menu
+2. Click the "Remove ads" item 
+3. Click the "Stop Sharing IDLE resources" button
+ 
+
 ### Do we share your information with third party SDKs provider?
 
 Like any other popular application, YMusic uses a lot of third party SDKs to provide many functionalities. We do not explicitly provide any private information to any of these third party SDK.
