@@ -1,4 +1,4 @@
-# _YMusic Privacy Policy_
+# _YMusic Privacy Policy & Terms of service_
 
 ### When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
@@ -53,6 +53,8 @@ You may opt-out of the Luminati network by following steps:
 1. Open YMusic's side menu
 2. Click the "Remove ads" item 
 3. Click the "Stop Sharing IDLE resources" button
+
+_(Brief summary, none of your personal information is accessed (except the device IP address) and your resources will not be used for computing services such as crypto mining and storage.)_
  
 
 ### Do we share your information with third party SDKs provider?
