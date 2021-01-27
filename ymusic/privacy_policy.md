@@ -47,8 +47,8 @@ The following table explains the information collected by YMusic on its servers:
 ### Luminati - terms of service:
 
 In return for some of the premium features of YMusic, you may choose to be a peer on the Luminati network. By doing so you agree to have read and
-accepted the Terms of Service of the Luminati SDK SLA:  
-http://luminati.io/legal/sdk_sla.  
+accepted the Terms of Service of the [Luminati SDK SLA](http://luminati.io/legal/sdk_sla):  
+[http://luminati.io/legal/sdk_sla](http://luminati.io/legal/sdk_sla)  
 You may opt-out of the Luminati network by following steps:
 1. Open YMusic's side menu
 2. Click the "Remove ads" item 
