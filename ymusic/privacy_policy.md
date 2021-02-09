@@ -50,11 +50,10 @@ In return for some of the premium features of YMusic, you may choose to be a pee
 accepted the Terms of Service of the [Luminati SDK SLA](http://luminati.io/legal/sdk_sla):  
 [http://luminati.io/legal/sdk_sla](http://luminati.io/legal/sdk_sla)  
 You may opt-out of the Luminati network by following steps:
-1. Open YMusic's side menu
-2. Click the "Remove ads" item 
-3. Click the "Stop Sharing IDLE resources" button
+1. Open YMusic's settings
+2. Uncheck "Remove ads - Share idle resources (Luminati)"
 
-_(Brief summary, none of your personal information is accessed (except the device IP address) and your resources will not be used for computing services such as crypto mining and storage.)_
+_None of your personal information is accessed (except the device IP address) and your resources will not be used for computing services such as crypto mining and storage._
  
 
 ### Do we share your information with third party SDKs provider?
@@ -78,7 +77,7 @@ We do not share your personal information with companies, organizations, or indi
 * Detect, prevent, or otherwise address fraud, security, or technical issues.
 * Protect against harm to the rights, property or safety of YMusic, our users, or the public as required or permitted by law.
 
-### PERMISSIONS REQUESTED BY YMUSIC ANDROID APPLICATION AND WHY ARE THEY REQUIRED 
+### PERMISSIONS REQUESTED BY YMUSIC ANDROID APPLICATION AND WHY ARE THEY REQUIRED
 <table>
 	<tr>
 	<td>
