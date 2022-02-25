@@ -23,11 +23,8 @@ Link to privacy policy of third party service providers used by the app:
 <dd><a href="https://fabric.io/terms">https://fabric.io/terms</a></dd>
 <dt>Firebase analytics by Google</dt>
 <dd><a href="https://firebase.google.com/support/privacy/">https://firebase.google.com/support/privacy/</a></dd>
-<dt>MoPub</dt>
-<dd><a href="https://www.mopub.com/legal/privacy/">https://www.mopub.com/legal/privacy/</a></dd>
-<dt>Facebook Audience Network</dt>
-<dd><a href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a></dd>
-</dl>
+<dt>AppLovin</dt>
+<dd><a href="https://www.applovin.com/privacy/">https://www.applovin.com/privacy/</a></dd>
 
 #### Log Data
 
