@@ -1,5 +1,11 @@
 # _YMusic Privacy Policy & Terms of service_
 
+YMusic is a web browser designed for Android devices. It features a dedicated web renderer engine that enhances the browsing experience on two specific websites: `www.youtube.com` and `music.youtube.com`.
+Please note that YMusic is not affiliated with or partnered with YouTube. Any use of YouTube services through our software must comply with [YouTube's terms of service]().
+
+**Software disclaimer**: The use of this software is subject to the laws and regulations of your country. You may not use the Services for any illegal or unauthorized purpose, including downloading copyrighted content without permission. You agree to comply with all laws, rules, and regulations (for example, federal, state, local, and provincial) applicable to your use of the Services, including but not limited to, copyright laws.
+Liability waiver: The developers of YMusic are not responsible for any legal or financial consequences that may result from the user's actions while using the software.
+
 ### When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
@@ -8,7 +14,7 @@ _Effective January 26, 2019_
 
 ----
 
-#### INFORMATION YMUSIC COLLECTS
+### INFORMATION YMUSIC COLLECTS
 
 We want you to understand the types of information we collect as you use our services.
 
